@@ -261,17 +261,17 @@
 .services .main-area .section-area .section-A {
   padding: 3rem 0;
   color: white;
-  background: #db8637;
+  background: #FFF0D1;
 }
 .services .main-area .section-area .section-B {
   padding: 3rem 0;
   color: white;
-  background: #b66f2d;
+  background: #795757;
 }
 .services .main-area .section-area .section-C {
   padding: 3rem 0;
   color: white;
-  background: #707070;
+  background: #664343;
 }
 .services .main-area .section-area .box-img img {
   padding: 0 10%;
@@ -284,7 +284,7 @@
   background: rgba(0, 0, 0, 0.5);
 }
 .services footer {
-  background-color: #707070;
+  background-color: #FFF0D1;
 }
 .contact {
   font-family: "Baloo 2", cursive;
@@ -334,7 +334,7 @@
   font-size: 1.5rem;
 }
 .contact .pic-area .sections-section {
-  background-color: rgba(182, 111, 45, 0.75);
+  background-color: rgba(255,240,209, 0.75);
   padding: 1rem;
   margin: 1rem;
 }
