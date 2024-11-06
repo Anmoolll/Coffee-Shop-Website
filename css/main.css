@@ -4,7 +4,7 @@
   margin: 0;
 }
 .menu {
-  background-color: #b66f2d;
+  background-color: #664343;
   font-family: "Baloo 2", cursive;
 }
 .menu .pic-area {
@@ -46,7 +46,7 @@
   background: rgba(71, 71, 71, 0.2);
 }
 .menu .flex {
-  background-color: #db8637;
+  background-color: #795757;
   margin: 1rem auto;
   padding: 1.5rem;
   max-width: 1170px;
@@ -78,18 +78,18 @@
   margin: 0 3rem;
   font-size: 1rem;
   letter-spacing: 1px;
-  background: #b66f2d;
+  background: #FFF0D1;
   border: 1px solid #151515;
   color: #151515;
   opacity: 0;
   transition: all 0.5s ease-in-out;
 }
 .menu .flex .box .box__btn:hover {
-  background: #db8637;
+  background: #664343;
 }
 .menu .flex .box .img-container {
   position: relative;
-  border-bottom: 5px solid #b66f2d;
+  border-bottom: 5px solid #FFF0D1;
   overflow: hidden;
 }
 .menu .flex .box .img-container img {
